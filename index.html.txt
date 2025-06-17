@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Marks Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Marks Calculator</h1>
+  <input type="number" id="sub1" placeholder="Subject 1 Marks">
+  <input type="number" id="sub2" placeholder="Subject 2 Marks">
+  <input type="number" id="sub3" placeholder="Subject 3 Marks">
+  <button onclick="calculate()">Calculate</button>
+  <p id="result"></p>
+
+  <script src="script.js"></script>
+</body>
+</html>
