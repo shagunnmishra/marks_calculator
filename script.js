@@ -13,5 +13,7 @@ function calculate() {
   let status = avg >= 33 ? "Pass" : "Fail";
 
   document.getElementById("result").innerText = 
-    `'Total: ${total}, Average: ${avg.toFixed(2)}, Result: ${status}'`;
+    `Total: ${total}, 
+    Average: ${avg.toFixed(2)}, 
+    Result: ${status}`;
 }
