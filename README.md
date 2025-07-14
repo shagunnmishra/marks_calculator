@@ -1,2 +1,2 @@
 # marks_calculator
-Simple HTML / CSS / JS project , of marks calculator
+Simple HTML / CSS / JS project(Frontend), of marks Calculator(calculating max 3 subject marks).
